@@ -1,0 +1,12 @@
+F:\test\eShop.Domain\bin\Debug\net6.0\eShop.Domain.deps.json
+F:\test\eShop.Domain\bin\Debug\net6.0\eShop.Domain.dll
+F:\test\eShop.Domain\bin\Debug\net6.0\eShop.Domain.pdb
+F:\test\eShop.Domain\obj\Debug\net6.0\eShop.Domain.csproj.AssemblyReference.cache
+F:\test\eShop.Domain\obj\Debug\net6.0\eShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\test\eShop.Domain\obj\Debug\net6.0\eShop.Domain.AssemblyInfoInputs.cache
+F:\test\eShop.Domain\obj\Debug\net6.0\eShop.Domain.AssemblyInfo.cs
+F:\test\eShop.Domain\obj\Debug\net6.0\eShop.Domain.csproj.CoreCompileInputs.cache
+F:\test\eShop.Domain\obj\Debug\net6.0\eShop.Domain.dll
+F:\test\eShop.Domain\obj\Debug\net6.0\refint\eShop.Domain.dll
+F:\test\eShop.Domain\obj\Debug\net6.0\eShop.Domain.pdb
+F:\test\eShop.Domain\obj\Debug\net6.0\ref\eShop.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "enQ7Ug8rCrDgXUYO6CS9J31Ryx8xNPHbLPPbVPYkCi4=",
+  "Source": "testKafka",
+  "BasePath": "_content/testKafka",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

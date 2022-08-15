@@ -1,0 +1,17 @@
+F:\test\eShop.Infra\bin\Debug\net6.0\eShop.Infra.deps.json
+F:\test\eShop.Infra\bin\Debug\net6.0\eShop.Infra.runtimeconfig.json
+F:\test\eShop.Infra\bin\Debug\net6.0\eShop.Infra.dll
+F:\test\eShop.Infra\bin\Debug\net6.0\eShop.Infra.pdb
+F:\test\eShop.Infra\bin\Debug\net6.0\eShop.Domain.dll
+F:\test\eShop.Infra\bin\Debug\net6.0\eShop.Domain.pdb
+F:\test\eShop.Infra\obj\Debug\net6.0\eShop.Infra.csproj.AssemblyReference.cache
+F:\test\eShop.Infra\obj\Debug\net6.0\eShop.Infra.GeneratedMSBuildEditorConfig.editorconfig
+F:\test\eShop.Infra\obj\Debug\net6.0\eShop.Infra.AssemblyInfoInputs.cache
+F:\test\eShop.Infra\obj\Debug\net6.0\eShop.Infra.AssemblyInfo.cs
+F:\test\eShop.Infra\obj\Debug\net6.0\eShop.Infra.csproj.CoreCompileInputs.cache
+F:\test\eShop.Infra\obj\Debug\net6.0\eShop.Infra.csproj.CopyComplete
+F:\test\eShop.Infra\obj\Debug\net6.0\eShop.Infra.dll
+F:\test\eShop.Infra\obj\Debug\net6.0\refint\eShop.Infra.dll
+F:\test\eShop.Infra\obj\Debug\net6.0\eShop.Infra.pdb
+F:\test\eShop.Infra\obj\Debug\net6.0\eShop.Infra.genruntimeconfig.cache
+F:\test\eShop.Infra\obj\Debug\net6.0\ref\eShop.Infra.dll

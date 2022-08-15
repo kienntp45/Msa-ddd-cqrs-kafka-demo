@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HMR8s+0DjUG9f6QntmgtV3jqOM6VnxjwjFxyITO4WDk=",
+  "Source": "eShop.App",
+  "BasePath": "_content/eShop.App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
